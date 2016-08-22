@@ -1,0 +1,9 @@
+#ifndef ENTITYTAGS_H_INCLUDED
+#define ENTITYTAGS_H_INCLUDED
+
+enum EntityTags
+{
+    PLAYER,
+};
+
+#endif // ENTITYTAGS_H_INCLUDED
